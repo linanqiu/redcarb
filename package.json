@@ -1,0 +1,16 @@
+{
+  "name": "redcarb",
+  "version": "0.0.1",
+  "description": "Redwrap simplifies Reddit API requests by providing an easy to use wrapper with jQuery style chaining.",
+  "main": "redcarb.js",
+  "dependencies": {
+    "request": "~2.12.0"
+  },
+  "keywords": [
+    "reddit",
+    "API",
+    "wrapper"
+  ],
+  "author": "Linan Qiu",
+  "license": "MIT"
+}
